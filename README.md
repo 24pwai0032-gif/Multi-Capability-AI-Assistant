@@ -1,5 +1,4 @@
 # Multi-Capability AI Assistant
-**Agentic AI Bootcamp — atomcamp | Session 2 Assignment**
 
 A Python-based AI assistant powered by the Groq API (free tier) that combines three
 distinct capabilities and four tools in a single program. Requests are automatically
