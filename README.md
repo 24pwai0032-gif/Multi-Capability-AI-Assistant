@@ -192,5 +192,3 @@ on the free tier with generous rate limits, making it suitable for development
 and coursework.
 
 ---
-
-*Built for atomcamp Agentic AI Bootcamp — Session 2 Assignment*
